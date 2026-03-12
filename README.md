@@ -1,4 +1,4 @@
-# IT Support Performance Analytics Dashboard
+[# IT Support Performance Analytics Dashboard
 
 ## Project Overview
 
@@ -95,3 +95,4 @@ Metric used to identify similarity between issues.
 
 Joydip Karmakar  
 Data Analytics Project
+](https://github.com/springboardmentor722-cmyk/Optimizing-IT-Support-Team-Performance-Using-Analytics-)
