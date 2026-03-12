@@ -1,4 +1,4 @@
-[# IT Support Performance Analytics Dashboard
+# IT Support Performance Analytics Dashboard
 
 ## Project Overview
 
