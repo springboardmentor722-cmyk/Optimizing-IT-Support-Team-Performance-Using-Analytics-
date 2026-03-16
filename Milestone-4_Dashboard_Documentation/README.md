@@ -29,6 +29,6 @@ Streamlit dashboard includes:
 ## Final Deliverables
 
 - Power BI dashboard
-- Streamlit dashboard
+- [Streamlit dashboard](https://supportlytics-dashboard.streamlit.app/)
 - Final project report
 - Presentation slides
