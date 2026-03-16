@@ -43,7 +43,7 @@ The project follows a structured analytics pipeline:
 
 ## Milestone 4 – Dashboard & Documentation
 - Power BI dashboard
-- Streamlit dashboard
+- [Streamlit dashboard](https://supportlytics-dashboard.streamlit.app/)
 - Final project report
 
 ---
