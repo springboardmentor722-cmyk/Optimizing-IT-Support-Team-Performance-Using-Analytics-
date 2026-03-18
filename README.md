@@ -1,98 +1,160 @@
-# IT Support Performance Analytics Dashboard
+# 📊 Supportlytics – IT Support Performance Analytics Dashboard
 
-## Project Overview
-
-This project analyzes IT support ticket data to identify performance trends, optimize resolution times, and enhance service efficiency using data analytics and visualization techniques.
-
-The goal is to uncover patterns in ticket requests, technical issues, and support performance metrics to improve workflow and resource allocation.
+🔗 **Live Dashboard:**
+👉 https://powerbi-app-dashboard-xchmfbpfypp62yfwxtqlgk.streamlit.app/
 
 ---
 
-# Project Workflow
+## 📌 Project Overview
 
-The project follows a structured analytics pipeline:
+Supportlytics is a data analytics project designed to **analyze IT support ticket data** and improve team performance.
+It provides insights into ticket resolution, response efficiency, and workload distribution using **Power BI and Streamlit dashboards**.
+
+The system helps organizations:
+
+* Improve resolution time
+* Optimize support workflows
+* Identify performance bottlenecks
+* Enhance customer satisfaction
+
+---
+
+## ⚙️ Features
+
+* 📈 Interactive Power BI Dashboard
+* 📊 Real-time Streamlit Web App
+* 🧠 Cluster & Similarity Analysis
+* 📍 Performance & Trend Insights
+* ⚡ Efficient Data Processing Pipeline
+
+---
+
+## 🧩 Project Workflow
 
 1. Data Acquisition
 2. Data Cleaning
 3. Feature Engineering
 4. Exploratory Data Analysis
 5. Cluster & Similarity Analysis
-6. Performance Trend Analysis
-7. Geographic Insights
-8. Dashboard Development
-9. Insights and Recommendations
+6. Performance Analysis
+7. Dashboard Development
+8. Insights & Recommendations
 
 ---
 
-# Project Milestones
+## 🛠️ Tech Stack
 
-## Milestone 1 – Data Acquisition & Understanding
-- Dataset loading
-- Data inspection
-- Ticket distribution analysis
+### 🔹 Programming & Data Processing
 
-## Milestone 2 – Data Cleaning & Feature Engineering
-- Missing value handling
-- Feature engineering
-- Exploratory data analysis
+* Python
+* Pandas
+* NumPy
 
-## Milestone 3 – Cluster & Performance Analysis
-- Cluster creation
-- Similarity score calculation
-- Performance analysis
+### 🔹 Visualization
 
-## Milestone 4 – Dashboard & Documentation
-- Power BI dashboard
-- [Streamlit dashboard](https://supportlytics-dashboard.streamlit.app/)
-- Final project report
+* Matplotlib
+* Seaborn
+* Plotly
+
+### 🔹 Dashboard
+
+* Power BI
+* Streamlit
 
 ---
 
-# Tech Stack
+## 📊 Key Metrics
 
-### Data Processing
-- Python
-- Pandas
-- NumPy
-
-### Visualization
-- Matplotlib
-- Seaborn
-
-### Dashboard
-- Power BI
+* **Resolution Time** – Time taken to resolve tickets
+* **Response Efficiency** – Speed of handling requests
+* **Priority Distribution** – Ticket priority breakdown
+* **Similarity Score** – Identifies related issues
 
 ---
 
-# Key Metrics
+## 📂 Project Structure
 
-Resolution Time  
-Time taken to resolve support tickets.
-
-Response Efficiency  
-Efficiency metric based on resolution speed.
-
-Priority Distribution  
-Distribution of tickets across priority levels.
-
-Similarity Score  
-Metric used to identify similarity between issues.
-
----
-
-# Final Deliverables
-
-- Cleaned Dataset
-- Python Analysis Notebooks
-- Cluster Analysis
-- Power BI Dashboard
-- Final Report
-- Project Presentation
+```
+supportlytics-dashboard/
+│
+├── Milestone-1_Data_Acquisition_Understanding/
+├── Milestone-2_Data_Cleaning_Feature_Engineering/
+├── Milestone-3_Cluster_Performance_Analysis/
+├── app.py
+├── requirements.txt
+├── README.md
+└── LICENSE
+```
 
 ---
 
-# Author
+## ▶️ Run Locally
 
-Joydip Karmakar  
-Data Analytics Project
-](https://github.com/springboardmentor722-cmyk/Optimizing-IT-Support-Team-Performance-Using-Analytics-)
+1. Clone the repository:
+
+```
+git clone https://github.com/Nikhil-code123/Optimizing-IT-Support-Team-Performance-Using-Analytics-.git
+```
+
+2. Navigate to the project:
+
+```
+cd supportlytics-dashboard
+```
+
+3. Install dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+4. Run the app:
+
+```
+streamlit run app.py
+```
+
+---
+
+## 🌐 Dashboard Preview
+
+The Streamlit app embeds a Power BI dashboard for interactive analytics. 
+
+---
+
+## 📦 Requirements
+
+* streamlit
+* pandas
+* matplotlib
+* seaborn
+* plotly
+* scikit-learn  
+
+---
+
+## 🎯 Future Enhancements
+
+* Real-time ticket prediction using ML
+* User authentication system
+* Advanced analytics with AI models
+* Deployment with cloud scalability
+
+---
+
+## 👨‍💻 Author
+
+**Vankunavath Ajay**
+AI & ML Student | Data Analyst
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+* ⭐ Star the repo
+* 🍴 Fork it
+* 📢 Share it
+
+---
