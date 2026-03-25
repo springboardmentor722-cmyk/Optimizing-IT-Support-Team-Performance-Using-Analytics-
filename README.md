@@ -1,4 +1,4 @@
-# 📊 IT Support Ticket Analysis & Visualization Project
+# IT Support Team Performance Using Analytics
 
 ## 🎯 Project Objective
 
