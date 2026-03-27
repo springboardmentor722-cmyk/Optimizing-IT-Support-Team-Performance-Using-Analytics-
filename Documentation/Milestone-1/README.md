@@ -78,11 +78,8 @@ The distribution across ticket types is balanced, indicating a diverse range of 
 ## Deliverables
 
 - Cleaned dataset saved as Supportlytics_Final_Data.csv
-- Feature engineering summary documented in Revised_notebook.ipynb
+- Feature engineering summary documented in Python_notebook.ipynb
 - Data dictionary covering all 13 retained columns
 
 ---
 
-## Outcome
-
-The dataset was successfully cleaned, validated, and enriched with engineered features. The processed dataset is structured and ready for exploratory data analysis and visualization in Milestone 2.
