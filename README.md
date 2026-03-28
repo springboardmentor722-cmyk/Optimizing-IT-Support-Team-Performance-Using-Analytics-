@@ -26,9 +26,10 @@ customer_support_tickets.xlsx
 
 Processed_data.csv
 
-**Data Includes:
+**Data Includes:**
 
 Ticket ID
+
 Priority (Low / Medium / High / Critical)
 
 Status (Open / Closed / In Progress)
@@ -56,8 +57,11 @@ Removed null and inconsistent values
 Standardized categorical fields (priority, status)
 
 Created calculated fields:
+
     1.SLA Breach Indicator
+    
     2.Resolution Delay
+    
     3.Ticket Aging
 
 
