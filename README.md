@@ -1,35 +1,69 @@
-🎯 Project Objective
 
-The objective of this project is to analyze IT support ticket data to identify key performance trends, optimize resolution times, and enhance service efficiency through data analysis and visualization. The goal is to uncover patterns in customer requests, technical issues, and support performance metrics to recommend improvements in workflow and resource allocation.
+**📊 IT Support Ticket Analysis Dashboard**
 
-📂 Dataset Overview
+**🚀 Project Overview**
+This project analyzes IT support ticket data to uncover operational inefficiencies, SLA risks, and performance bottlenecks. The goal is not just visualization, but enabling data-driven decision-making for IT support teams.
 
-Total Tickets 8,469 included in the dataset.
-Ticket attributes: Ticket ID, Type, Status, Priority, Channel.
-Customer information: Age, Gender, Country.
-Product information: Product Purchased.
-Performance metrics: First Response Time, Resolution Time, Satisfaction Rating.
-🛠️ Technology Stack
-Programming Language: Python
-Data Processing & Analysis: Pandas, NumPy
-Data Visualization: Matplotlib, Seaborn, Plotly
-Dashboard: Streamlit, Power BI
-Development Environment: VS Code, Jupyter Notebook
-🔄 Project Workflow
-Data Collection : Extracted 8,469 tickets from internal IT support system
 
-Preprocessing : Cleaned, formatted, and validated dataset for analysis
+**🎯 Business Problem**
+IT support teams often struggle with:
 
-Feature Engineering : Created derived metrics like resolution categories and age groups
+High volume of unresolved tickets
+Poor SLA compliance
+Lack of visibility into critical issues
+Inefficient resource allocation
 
-EDA (Exploratory Data Analysis) : Analyzed patterns and identified trends using statistical methods
+**📁 Dataset Details
+**Sources:
+customer_support_tickets.xlsx
+Processed_data.csv
+Data Includes:
+Ticket ID
+Priority (Low / Medium / High / Critical)
+Status (Open / Closed / In Progress)
+First Response Time
+Resolution Time
+Created & Closed Dates
 
-Power BI : Built interactive visuals for business intelligence reporting
+**🛠️ Tools & Technologies**
+****Python** → Data cleaning & preprocessing
+**SQL** → Data querying & transformation
+**Power BI** → Dashboard & visualization
+**Excel** → Initial data handling
 
-Reporting : Generated actionable insights for stakeholders
+**⚙️ Data Processing Steps**
+Removed null and inconsistent values
+Standardized categorical fields (priority, status)
+Created calculated fields:
+    1.SLA Breach Indicator
+    2.Resolution Delay
+    3.Ticket Aging
+Optimized dataset for dashboard performance
 
-📊 Outcomes
 
-Explored trends in ticket volume, priority, resolution time, and category distribution
-Identified clusters of similar issues using similarity scores and clustering techniques
-Visualized performance metrics through dashboards and charts
+**📊 Dashboard Features**
+**🔹 KPI Metrics**
+        a)Total Tickets
+        b)% High & Critical Tickets
+        c)SLA Breach Rate
+        d)Average Resolution Time
+ **🔹 Functional Highlights**
+        a)Conditional formatting to highlight SLA breaches
+        b)Interactive filters (priority, status, date)
+        c)Drill-down capability for root cause analysis
+
+**📌 Key Insights**
+49.76% of tickets are High & Critical, exceeding the acceptable threshold of 20% → indicates poor ticket prioritization and potential operational risk
+SLA breach rate is significantly high, highlighting inefficiencies in response and resolution workflows
+Ticket volume spikes observed on specific days, suggesting mismatch between workload and resource allocation
+Long resolution times concentrated in high-priority tickets, indicating escalation or handling inefficiencies   
+
+**💡 Business Impact**
+Identified SLA compliance gaps, enabling targeted process improvements
+Provided insights for resource reallocation during peak periods
+Highlighted high-risk tickets early, improving response prioritization
+Enabled management to take data-driven operational decisions
+
+**👤 Author**
+Dhanunjaya Rao Sivvala
+Aspiring Data Analyst | Python | SQL | Power BI
