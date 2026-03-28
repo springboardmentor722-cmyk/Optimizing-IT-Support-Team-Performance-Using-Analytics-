@@ -1,7 +1,9 @@
 🎯 Project Objective
+
 The objective of this project is to analyze IT support ticket data to identify key performance trends, optimize resolution times, and enhance service efficiency through data analysis and visualization. The goal is to uncover patterns in customer requests, technical issues, and support performance metrics to recommend improvements in workflow and resource allocation.
 
 📂 Dataset Overview
+
 Total Tickets 8,469 included in the dataset.
 Ticket attributes: Ticket ID, Type, Status, Priority, Channel.
 Customer information: Age, Gender, Country.
@@ -27,6 +29,7 @@ Power BI : Built interactive visuals for business intelligence reporting
 Reporting : Generated actionable insights for stakeholders
 
 📊 Outcomes
+
 Explored trends in ticket volume, priority, resolution time, and category distribution
 Identified clusters of similar issues using similarity scores and clustering techniques
 Visualized performance metrics through dashboards and charts
