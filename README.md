@@ -5,7 +5,7 @@
 
 This project analyzes IT support ticket data to uncover operational inefficiencies, SLA risks, and performance bottlenecks. The goal is not just visualization, but enabling data-driven decision-making for IT support teams.
 
-
+---
 **🎯 Business Problem**
 
 IT support teams often struggle with:
@@ -17,14 +17,14 @@ IT support teams often struggle with:
 3.Lack of visibility into critical issues
 
 4.Inefficient resource allocation
-
+ ---
 ## 📁 Dataset Details
 
 ## Sources:
 
-customer_support_tickets.xlsx
+a)customer_support_tickets.xlsx
 
-Processed_data.csv
+b)Processed_data.csv
 
 **Data Includes:**
 
@@ -39,7 +39,7 @@ First Response Time
 Resolution Time
 
 Created & Closed Dates
-
+---
 ## 🛠️ Tools & Technologies
 
 **Python** → Data cleaning & preprocessing
@@ -49,7 +49,7 @@ Created & Closed Dates
 **Power BI** → Dashboard & visualization
 
 **Excel** → Initial data handling
-
+---
 ## Data Processing Steps
 
 Removed null and inconsistent values
@@ -59,12 +59,10 @@ Standardized categorical fields (priority, status)
 Created calculated fields:
 
     1.SLA Breach Indicator
-    
     2.Resolution Delay
-    
     3.Ticket Aging
 
-
+---
 ## 📊 Dashboard Features
 
 ## 🔹 KPI Metrics
@@ -76,7 +74,7 @@ Created calculated fields:
         a)Conditional formatting to highlight SLA breaches
         b)Interactive filters (priority, status, date)
         c)Drill-down capability for root cause analysis
-
+---
 ## 📌 Key Insights
 
 1.49.76% of tickets are High & Critical, exceeding the acceptable threshold of 20% → indicates poor ticket prioritization and potential operational risk
@@ -86,7 +84,7 @@ Created calculated fields:
 3.Ticket volume spikes observed on specific days, suggesting mismatch between workload and resource allocation
 
 4.Long resolution times concentrated in high-priority tickets, indicating escalation or handling inefficiencies   
-
+---
 ## 💡 Business Impact
 
 1.Identified SLA compliance gaps, enabling targeted process improvements
@@ -96,7 +94,7 @@ Created calculated fields:
 3.Highlighted high-risk tickets early, improving response prioritization
 
 4.Enabled management to take data-driven operational decisions
-
+---
 ## 👤 Author
 
 Dhanunjaya Rao Sivvala
