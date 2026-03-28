@@ -16,6 +16,7 @@ Inefficient resource allocation
 
 **📁 Dataset Details
 **Sources:
+
 customer_support_tickets.xlsx
 Processed_data.csv
 Data Includes:
@@ -71,5 +72,6 @@ Highlighted high-risk tickets early, improving response prioritization
 Enabled management to take data-driven operational decisions
 
 **👤 Author**
+
 Dhanunjaya Rao Sivvala
 Aspiring Data Analyst | Python | SQL | Power BI
