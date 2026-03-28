@@ -58,9 +58,9 @@ Standardized categorical fields (priority, status)
 
 Created calculated fields:
 
-    1.SLA Breach Indicator
-    2.Resolution Delay
-    3.Ticket Aging
+    a.SLA Breach Indicator
+    b.Resolution Delay
+    c.Ticket Aging
 
 ---
 ## 📊 Dashboard Features
