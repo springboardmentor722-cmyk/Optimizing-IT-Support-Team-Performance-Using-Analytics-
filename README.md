@@ -81,7 +81,8 @@ The Power BI dashboard includes:
 
 ## 👩‍💻 Author
 **Shaik Farhana**  
-Infosys Springboard Internship – 2026 
+Infosys Springboard Internship – 2026
+
 GitHub: https://github.com/shaik-30
 
 ---
