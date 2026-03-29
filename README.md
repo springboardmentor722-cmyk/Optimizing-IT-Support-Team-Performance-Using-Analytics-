@@ -1,37 +1,94 @@
-# IT Support Team Performance Using Analytics
+# 📊 Data-Driven Optimization of IT Support Team Performance Using Analytics
 
 ## 📌 Project Overview
-This project analyzes IT support ticket data using Power BI to understand performance, identify issues, and improve efficiency.
+This project focuses on analyzing IT support ticket data to evaluate team performance and identify opportunities for improvement. Using Power BI, interactive dashboards were developed to track ticket resolution time, workload distribution, priority handling, and customer satisfaction.
+
+The goal of this project is to improve operational efficiency and provide actionable insights for decision-making.
+
+---
 
 ## 🎯 Objectives
-- Analyze IT support ticket data
-- Identify performance issues
-- Improve resolution time
-- Increase customer satisfaction
-- Understand ticket trends and patterns
+- Analyze IT support ticket data  
+- Identify performance bottlenecks  
+- Improve resolution time  
+- Understand ticket trends and patterns  
+- Enhance customer satisfaction  
+- Optimize IT support team performance  
 
-## 📊 Key Insights
-- High priority tickets require faster resolution but take more time
-- Phone and chat channels handle most support requests
-- Billing and technical issues are the most common
-- Resolution time varies across categories
-- Customer satisfaction depends on response time
+---
 
-## 🛠️ Tools & Technologies
-- Power BI
-- Microsoft Excel
-- Data Analysis
-- Data Cleaning
-- Data Visualization
-- Dashboard Design
+## 📂 Dataset Description
+The dataset contains IT support ticket information including:
 
-## 📁 Files Included
-- Project Presentation (PPT)
-- Project Report (PDF)
+- Ticket ID  
+- Ticket Type  
+- Ticket Priority  
+- Ticket Status  
+- Resolution Time  
+- Support Channel  
+- Customer Satisfaction  
 
-## 📌 Conclusion
-This project helps improve IT support performance using data-driven insights and visualization techniques.
+This dataset helps analyze support team efficiency and identify improvement areas.
 
+---
 
+## 📊 Dashboard & Visualizations
+The Power BI dashboard includes:
 
-⭐ Thank you!
+- Ticket Type Distribution  
+- Resolution Time Analysis  
+- Ticket Priority Distribution  
+- Support Channel Analysis  
+- Customer Satisfaction Trends  
+- Performance Overview Dashboard  
+
+---
+
+## 🔍 Key Insights
+- High priority tickets require faster response but take more resolution time  
+- Phone and chat channels handle the majority of support tickets  
+- Technical and billing issues are the most frequent  
+- Resolution time varies across ticket categories  
+- Customer satisfaction improves with faster resolution time  
+
+---
+
+## 🛠 Tools & Technologies Used
+- Power BI  
+- Microsoft Excel  
+- Data Analysis  
+- Data Cleaning  
+- Data Visualization  
+- Dashboard Design  
+
+---
+
+## 📈 Project Outcomes
+- Improved understanding of IT support performance  
+- Identified delays in ticket resolution  
+- Provided data-driven decision support  
+- Developed interactive performance dashboard  
+
+---
+
+## 📁 Project Files
+- 📄 Project Report (PDF)  
+- 📊 Project Presentation (PPT)  
+- 📈 Power BI Dashboard  
+- 📂 Dataset  
+
+---
+
+## 👩‍💻 Author
+**Shaik Farhana**  
+Infosys Springboard Internship – 2026 
+GitHub: https://github.com/shaik-30
+
+---
+
+## ⭐ Conclusion
+This project successfully demonstrates how data analytics can improve IT support team efficiency. The dashboard provides valuable insights that help organizations enhance performance, reduce resolution time, and improve customer satisfaction.
+
+---
+
+⭐ Thank you for reviewing this project
