@@ -36,11 +36,12 @@ This project focuses on analyzing IT support ticket data to evaluate support tea
 ---
 
 # 🛠️ Tools & Technologies
-- **Python (Pandas, NumPy)** – Data processing and analysis  
-- **Matplotlib & Seaborn** – Data visualization  
-- **Power BI** – Interactive dashboard development  
-- **Jupyter Notebook** – Data analysis environment  
-- **GitHub** – Version control and project hosting  
+-Data Handling: pandas, numpy. 
+-Dataset Preparation: MS Excel 
+-Visualization: matplotlib, seaborn. 
+-Dashboard: Power BI. 
+-Documentation: Jupyter Notebook, PDF Report, GitHub Repository, MS 
+Word
 
 ---
 
@@ -56,7 +57,6 @@ Milestone-4_Dashboard_Documentation/
 - Jupyter Notebooks (Analysis & Processing)  
 - Power BI Dashboard (.pbix)  
 - Project Report (PDF)  
-- Dashboard Screenshots  
 - Presentation Slides (PPT)  
 
 ---
