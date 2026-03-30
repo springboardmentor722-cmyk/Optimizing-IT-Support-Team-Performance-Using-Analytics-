@@ -1,1 +1,40 @@
+## 📌 Milestone 1: Project Setup & Problem Understanding
 
+### 🎯 Objective
+Understand the business problem and set up the foundation for the IT Support Ticket Analysis project.
+
+### 📊 Business Problem
+IT support teams face challenges such as:
+- High volume of unresolved tickets
+- SLA (Service Level Agreement) violations
+- Lack of visibility into ticket priority and resolution trends
+- Inefficient resource allocation
+
+### 📁 Dataset Overview
+- Source: Internal / Simulated IT Ticket Data
+- Key Columns:
+  - Ticket ID
+  - Issue Type
+  - Priority
+  - Status
+  - Created Date
+  - Resolved Date
+  - Assigned Team
+
+### 🛠️ Tools & Technologies
+- Python (Pandas, NumPy)
+- Power BI
+- Excel (for quick validation)
+
+### ⚙️ Tasks Completed
+- Defined project scope and objectives
+- Imported dataset
+- Understood data structure and features
+- Identified key KPIs:
+  - Ticket Volume
+  - Resolution Time
+  - SLA Compliance
+  - Priority Distribution
+
+### ✅ Outcome
+Clear understanding of the problem and data structure, ready for data cleaning and preprocessing.
