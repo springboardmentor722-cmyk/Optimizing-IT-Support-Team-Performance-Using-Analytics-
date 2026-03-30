@@ -1,1 +1,30 @@
+## 📌 Milestone 3: Exploratory Data Analysis (EDA)
 
+### 🎯 Objective
+Identify patterns, trends, and insights from the cleaned dataset.
+
+### 📊 Key Analysis Performed
+- Ticket volume over time
+- Priority-wise ticket distribution
+- Status breakdown (Open, Closed, Pending)
+- Average resolution time
+- SLA compliance analysis
+
+### 📈 Visualizations
+- Bar charts for ticket distribution
+- Line charts for trends over time
+- Pie charts for category proportions
+- Heatmaps for issue patterns
+
+### 🔍 Key Insights
+- High number of tickets in specific categories
+- Delay in resolving high-priority tickets
+- Peak ticket creation during certain periods
+- SLA breaches in specific teams
+
+### ⚠️ Observations
+- Some teams consistently underperform
+- Certain issue types take longer to resolve
+
+### ✅ Outcome
+Extracted actionable insights to guide dashboard creation and decision-making.
