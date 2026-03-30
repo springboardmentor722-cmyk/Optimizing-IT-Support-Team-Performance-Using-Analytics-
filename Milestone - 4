@@ -1,1 +1,40 @@
+## 📌 Milestone 4: Dashboard Development & Insights
 
+### 🎯 Objective
+Build an interactive dashboard to visualize insights and support decision-making.
+
+### 🛠️ Tools Used
+- Power BI
+
+### 📊 Dashboard Features
+- KPI Cards:
+  - Total Tickets
+  - Open Tickets
+  - SLA Compliance %
+  - Average Resolution Time
+
+- Interactive Filters:
+  - Priority
+  - Issue Type
+  - Team
+  - Date Range
+
+- Visualizations:
+  - Ticket Trends Over Time
+  - Priority Distribution
+  - SLA Compliance by Team
+  - Resolution Time Analysis
+
+### 💡 Key Insights Delivered
+- Identification of SLA breaches
+- Teams with high backlog
+- High-impact issue categories
+- Trends in ticket volume
+
+### 🚀 Business Impact
+- Improved visibility into IT operations
+- Better decision-making for resource allocation
+- Faster identification of bottlenecks
+
+### ✅ Outcome
+Fully functional dashboard enabling data-driven IT support management.
