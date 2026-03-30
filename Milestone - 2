@@ -1,1 +1,27 @@
+## 📌 Milestone 2: Data Cleaning & Preprocessing
 
+### 🎯 Objective
+Prepare raw data for analysis by handling inconsistencies and missing values.
+
+### 🛠️ Tasks Performed
+- Removed duplicate records
+- Handled missing/null values
+- Converted date columns into proper datetime format
+- Standardized categorical values (Priority, Status, Issue Type)
+- Removed irrelevant columns:
+  - First Response Time
+  - Time to Resolution (if inconsistent)
+
+### 🔍 Data Transformation
+- Created new features:
+  - Resolution Time (calculated)
+  - Ticket Age
+- Ensured consistent formatting across dataset
+
+### ⚠️ Challenges Faced
+- Inconsistent status labels
+- Missing resolution timestamps
+- Data type mismatches
+
+### ✅ Outcome
+Clean and structured dataset ready for exploratory data analysis (EDA).
