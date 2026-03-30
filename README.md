@@ -53,7 +53,7 @@ Milestone-4_Dashboard_Documentation/
 
 ---
 
-## 📂 Files Included
+# 📂 Files Included
 - Jupyter Notebooks (Analysis & Processing)  
 - Power BI Dashboard (.pbix)  
 - Project Report (PDF)  
@@ -73,5 +73,4 @@ This project is licensed under the MIT License.
 
 ⭐ Thank you!
 
-## 📁 Project Structure
 
