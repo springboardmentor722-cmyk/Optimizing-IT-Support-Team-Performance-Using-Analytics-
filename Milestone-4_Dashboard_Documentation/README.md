@@ -43,12 +43,6 @@ This milestone focuses on building an interactive dashboard, summarizing insight
 
 ---
 
-## 🔗 Dashboard Link
-
-[View Power BI Dashboard](PASTE_POWERBI_LINK_HERE)
-
----
-
 ## ✅ Outcome
 
 * Built interactive dashboard for decision-making
