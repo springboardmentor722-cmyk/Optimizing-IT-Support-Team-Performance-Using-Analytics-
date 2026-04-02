@@ -45,12 +45,6 @@ This milestone includes Power BI visualizations created after data cleaning and 
 
 ---
 
-##  Dashboard Preview / Link
-
-[View Dashboard](PASTE_POWERBI_LINK_HERE)
-
----
-
 ##  Outcome
 
 * Cleaned and structured dataset
