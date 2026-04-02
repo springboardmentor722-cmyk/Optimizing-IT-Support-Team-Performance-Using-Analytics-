@@ -1,12 +1,12 @@
-# 🧹 Milestone 2: Data Cleaning & Feature Engineering
+#  Milestone 2: Data Cleaning & Feature Engineering
 
-## 📌 Overview
+##  Overview
 
 This milestone focuses on cleaning the dataset, handling missing values, and creating new features to prepare the data for deeper analysis and visualization.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Handle missing and inconsistent data
 * Perform data preprocessing
@@ -15,7 +15,7 @@ This milestone focuses on cleaning the dataset, handling missing values, and cre
 
 ---
 
-## 🛠️ Tasks Performed
+##  Tasks Performed
 
 ### 🔹 Data Cleaning
 
@@ -33,11 +33,11 @@ This milestone focuses on cleaning the dataset, handling missing values, and cre
 
 ---
 
-## 📊 Visual Outputs (Power BI)
+##  Visual Outputs (Power BI)
 
 This milestone includes Power BI visualizations created after data cleaning and preprocessing.
 
-### 📌 Dashboard Insights
+###  Dashboard Insights
 
 * Cleaned data improves visualization clarity
 * Better distribution of priorities and categories
@@ -45,20 +45,13 @@ This milestone includes Power BI visualizations created after data cleaning and 
 
 ---
 
-## 📂 Files Included
-
-* 📊 Visualizations: `visuals/`
-* 📄 Power BI File (optional): `dashboard.pbix`
-
----
-
-## 🔗 Dashboard Preview / Link
+##  Dashboard Preview / Link
 
 [View Dashboard](PASTE_POWERBI_LINK_HERE)
 
 ---
 
-## ✅ Outcome
+##  Outcome
 
 * Cleaned and structured dataset
 * Created new analytical features
