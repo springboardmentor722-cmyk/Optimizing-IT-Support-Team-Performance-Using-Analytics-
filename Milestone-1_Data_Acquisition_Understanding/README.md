@@ -1,12 +1,12 @@
-# 📊 Milestone 1: Data Acquisition & Understanding
+#  Milestone 1: Data Acquisition & Understanding
 
-## 📌 Overview
+##  Overview
 
 This milestone focuses on understanding the IT support ticket dataset, performing initial exploration, and preparing the data for further analysis.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Load and inspect the dataset
 * Understand data structure and features
@@ -16,7 +16,7 @@ This milestone focuses on understanding the IT support ticket dataset, performin
 
 ---
 
-## 🛠️ Tasks Performed
+##  Tasks Performed
 
 ### 🔹 Data Loading
 
@@ -42,13 +42,13 @@ This milestone focuses on understanding the IT support ticket dataset, performin
 
 ---
 
-## 🔗 Notebook Link (Google Colab)
+##  Notebook Link (Google Colab)
 
 [View Notebook](https://colab.research.google.com/drive/1a46KbM74xc8T3PgKEvOuZIbpeJ_OSy_s?usp=sharing)
 
 ---
 
-## ✅ Outcome
+##  Outcome
 
 * Successfully explored dataset structure
 * Identified key distributions in ticket types and priorities
