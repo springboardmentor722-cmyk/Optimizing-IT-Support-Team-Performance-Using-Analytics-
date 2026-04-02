@@ -135,6 +135,5 @@ The project follows a structured analytics pipeline:
 ##  Author
 
 **Ashwini P V**
-[Data Analytics Project]([your-link](https://github.com/springboardmentor722-cmyk/Optimizing-IT-Support-Team-Performance-Using-Analytics-/tree/Optimizing-IT-Support-Team-Performance-Using-Analytics-(-Supportlytics)))
-
+Data Analytics Project
 ---
