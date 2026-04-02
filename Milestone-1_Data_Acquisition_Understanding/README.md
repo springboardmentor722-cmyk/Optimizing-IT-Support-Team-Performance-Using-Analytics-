@@ -42,26 +42,6 @@ This milestone focuses on understanding the IT support ticket dataset, performin
 
 ---
 
-## 📊 Sample Outputs
-
-### 📌 Ticket Volume by Type
-
-![Ticket Type](charts/Ticket Channel Distribution.png)
-
-### 📌 Ticket Priority Distribution
-
-![Priority](charts/Ticket Priority Distribution.png)
-
----
-
-## 📂 Files Included
-
-* 📓 Notebook: `notebooks/EDA.ipynb`
-* 📊 Charts: `charts/`
-* 📁 Dataset: `dataset/customer_support_tickets.xlsx`
-
----
-
 ## 🔗 Notebook Link (Google Colab)
 
 [View Notebook](https://colab.research.google.com/drive/1a46KbM74xc8T3PgKEvOuZIbpeJ_OSy_s?usp=sharing)
