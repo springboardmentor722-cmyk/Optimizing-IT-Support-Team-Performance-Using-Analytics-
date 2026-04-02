@@ -51,10 +51,6 @@ This milestone focuses on analyzing issue clusters, measuring similarity between
 
 ---
 
-##  Notebook Link (Google Colab)
-
-[View Notebook](PASTE_YOUR_COLAB_LINK_HERE)
-
 ---
 
 ##  Outcome
